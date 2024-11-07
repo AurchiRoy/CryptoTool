@@ -1,0 +1,3 @@
+# Description
+
+This project is a Python program that allows users to perform various cryptographic tasks. It includes options for AES encryption and decryption, RSA encryption and decryption, creating hashes (like SHA1, SHA256, MD5), generating and verifying digital signatures using RSA, and creating Message Authentication Codes (MAC) using HMAC with SHA1 or SHA256. Users can input data, choose an operation, and provide the necessary keys or details. The program then shows the results, such as encrypted data, hashes, or MACs, making it a simple tool to demonstrate basic cryptographic functions.
